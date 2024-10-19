@@ -15,7 +15,7 @@ Extencion de VSCode Thunder Client
 imagenes: La siguiente linea de código va en main
 app.mount("/static", StaticFiles(directory="static"), name="static") # Forma de exponer Archivos estaticos como imagenes
 # ejemplo: http://127.0.0.1:8000/static/images/Leon.jpg
-MAIN SOLO NECESITA http://127.0.0.1:8000 PARA PODER VERSE
+MAIN.py SOLO NECESITA http://127.0.0.1:8000 PARA PODER VERSE
 """
 IMPORTANTE: *** OJO ***
 1° En la terminal ubicarnos en la carpeta: cd FastApi (para este ejemplo)
