@@ -36,11 +36,11 @@ git status
 git add . # o enviar la direccion del directorio
 git commit -m "configurando repositorio remoto github"
 git status
-  debido al error
+  debido al error:
   git config --global user.mail "marioalejandropv"@gmail.com
   git config --global user.name "MarioPerezV"
 git add .
 git commit -m "configurando repositorio remoto despues del error2"
-git push -u origin master
+git push -u origin master (o main, Esto es opcional)
 
 """
